@@ -21,6 +21,9 @@
  ![cryptonia homepage](https://user-images.githubusercontent.com/89451392/132501459-8fdbf8d1-cae9-4b9c-ab8b-06cd24d8cc7c.png)
  
  
+ ![enc](https://user-images.githubusercontent.com/89451392/132524212-42ae8f9c-23cb-4b5d-a332-6ce4b98e8380.png)
+
+ 
  ![dec page](https://user-images.githubusercontent.com/89451392/132501972-7518bdfb-e7dc-447d-8997-15dfb5c6454c.png)
  
  
