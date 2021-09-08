@@ -11,7 +11,7 @@
  
  -> Uses private key cryptography for encryption and decryption.
  
- -> Both the encryption and decryption process is fast.
+ -> Faster encryption/decryption.
   
  -> Easy and simple to use UI.
  
