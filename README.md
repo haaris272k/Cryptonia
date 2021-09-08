@@ -49,5 +49,4 @@
  
 -> In order to get the desktop app download the rar from https://github.com/haaris272k/Cryptonia/releases. Extract and directly run from there.
 
--> App is also provided with the repo in 'Cryptonia Windows app' folder
 
