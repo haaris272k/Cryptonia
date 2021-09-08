@@ -1,5 +1,5 @@
 # Cryptonia
- # An encryption-decryption desktop application based on the principle of symmetric cryptography.
+ # An encryption-decryption software based on the principle of symmetric cryptography.
  
  
  
