@@ -11,9 +11,11 @@
  
  -> Uses private key cryptography for encryption and decryption.
  
+ -> Both the encryption and decryption process is fast.
+  
  -> Easy and simple to use UI.
  
- -> Unintended person would'nt be able to get the information unless he gets access to the key.
+ -> Unintended person would'nt be able to read/get the information unless he has access to the key.
    
  
  # Images
