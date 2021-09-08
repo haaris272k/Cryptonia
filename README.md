@@ -49,4 +49,8 @@
  
 -> In order to get the desktop app download the rar from https://github.com/haaris272k/Cryptonia/releases. Extract and directly run from there.
 
+# Note
+
+-> The stable version for linux will be made available soon.
+
 
